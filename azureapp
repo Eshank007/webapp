@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Web App Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+        h1 {
+            color: #333333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #666666;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+        }
+        h3 {
+            color: #666666;
+            font-size: 1.4em;
+            margin-bottom: 22px;
+        }
+        p {
+            color: #888888;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        .author {
+            color: #555555;
+            font-size: 1.1em;
+            margin-top: 30px;
+        }
+        .contact {
+            color: #555555;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello...!!</h1>
+        <h2>Welcome to My Web App Service</h2>
+                <h3>Version - 3.0</h3>
+        <p>Let's build our future better...!!</p>
+        <p>Author - Eshank Singh Bhardwaj</p>
+        <p>Contact - <a href="mailto:Noreply@nowhere.com">Noreply@nowhere.com</a></p>
+    </div>
+</body>
+</html>
